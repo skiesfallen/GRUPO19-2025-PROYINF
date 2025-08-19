@@ -1,1 +1,9 @@
 # GRUPO19-2025-PROYINF
+
+Integrantes:
+* Jaime Inostroza 202373085-8
+* Martín Aranda 202373021-1
+* Bruno Morici 202373555-1
+* Samira Estay 202373085-8
+**Tutor**
+  Catalina
