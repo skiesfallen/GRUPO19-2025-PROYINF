@@ -14,8 +14,8 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/skiesf
 
 ## Videos
 
-* [Video presentación cliente](https://www.youtube.com)
-* [Video presentación avance 1](https://www.youtube.com/)
+* [Video presentación cliente](https://aula.usm.cl/pluginfile.php/7621199/mod_resource/content/2/video1352931478.mp4)
+* [Video presentación avance 1 (no disponible aun)](https://www.youtube.com/)
 
 ## Aspectos técnicos relevantes
 * Aspecto 1...
